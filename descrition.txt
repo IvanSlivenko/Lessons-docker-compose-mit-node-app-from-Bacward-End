@@ -1,0 +1,11 @@
+https://youtu.be/4fLUc3hHKp4?list=PLtPlYtGpRnJAnXq_6zGHC3VNh5e03Ucud
+
+
+npm init -y
+
+
+docker-compose up -d
+
+-----------------------------------------------------------------------
+00 : 23 : 53
+
